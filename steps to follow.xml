@@ -1,0 +1,12 @@
+Step 1: Create an “Empty Activity” on Android Studio.
+New → New Project → Empty Activity
+Step 2: Adding colors to the colors.xml file
+app →res →values →colors.xml
+Step 3: Modifying the styles.xml file
+app →res →values →styles.xml
+Step 4: Configuring the “activity_main.xml” file
+Step 5: Placing the expression builder library inside the Gradle.
+app →Gradle Scripts→build.gradle
+Step 6: Actual Kotlin coding for the calculator
+app → java →com.example.myapplicationcalculator →MainActivity.kt
+Step 7: Run the app using the emulator
